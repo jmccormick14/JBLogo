@@ -1,0 +1,26 @@
+{
+"name": "JB Trucking LLC",
+"short_name": "JB Trucking",
+"start_url": "/",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#0a74da",
+"icons": [
+{
+"src": "https://raw.githubusercontent.com/jmccormick14/JBLogo/200e1f8e2667850267ea2bce9e77635abec60430/JB%20Trucking%20Logo_Full%20Color%20%20180X180.png",
+"sizes": "180x180",
+"type": "image/png"
+},
+{
+"src": "https://raw.githubusercontent.com/jmccormick14/JBLogo/5548420f2cf0b8e2b74d1b3aa6178fb4faa2a820/JB%20Trucking%20Logo_192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://raw.githubusercontent.com/jmccormick14/JBLogo/200e1f8e2667850267ea2bce9e77635abec60430/JB%20Trucking%20Logo_512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "maskable any"
+}
+]
+}
